@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="a9cd7ea7fba4de106c06f2896eefdc9e" extends="task" label="Grant Schemes" max_length="40" name="x_snc_defra_grants_grant_schemes" text_index="true" type="collection">
+        <element label="Grant Name" max_length="100" name="grant_name" type="string"/>
+        <element label="Value" max_length="40" name="value" type="currency"/>
+        <element label="Grant Deadline" max_length="40" name="grant_deadline" type="glide_date"/>
+        <element label="Catalog Item" max_length="32" name="catalog_item" reference="sc_cat_item_producer" type="reference"/>
+        <element label="Catalog Item Link" max_length="200" name="catalog_item_link" type="url"/>
+    </element>
+</database>

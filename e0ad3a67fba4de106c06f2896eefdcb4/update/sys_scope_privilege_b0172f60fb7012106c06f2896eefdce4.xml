@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="Defra Grants">e0ad3a67fba4de106c06f2896eefdcb4</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-19 13:32:28</sys_created_on>
+        <sys_id>b0172f60fb7012106c06f2896eefdce4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AisDisableSearchSignalEvent</sys_name>
+        <sys_package display_value="Defra Grants" source="x_snc_defra_grants">e0ad3a67fba4de106c06f2896eefdcb4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Defra Grants">e0ad3a67fba4de106c06f2896eefdcb4</sys_scope>
+        <sys_update_name>sys_scope_privilege_b0172f60fb7012106c06f2896eefdce4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-19 13:32:28</sys_updated_on>
+        <target_name>AisDisableSearchSignalEvent</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>sys_script_include</target_type>
+    </sys_scope_privilege>
+</record_update>

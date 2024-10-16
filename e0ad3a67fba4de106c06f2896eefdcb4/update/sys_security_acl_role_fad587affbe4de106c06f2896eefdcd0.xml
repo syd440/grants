@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-16 08:33:25</sys_created_on>
+        <sys_id>fad587affbe4de106c06f2896eefdcd0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>now.defra-grants.*.x_snc_defra_grants.user</sys_name>
+        <sys_package display_value="Defra Grants" source="x_snc_defra_grants">e0ad3a67fba4de106c06f2896eefdcb4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Defra Grants">e0ad3a67fba4de106c06f2896eefdcb4</sys_scope>
+        <sys_security_acl display_value="now.defra-grants.*">95d507af87e4de10412913ff5a168059</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_fad587affbe4de106c06f2896eefdcd0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-16 08:33:25</sys_updated_on>
+        <sys_user_role display_value="x_snc_defra_grants.user" name="x_snc_defra_grants.user">6cad7a67fba4de106c06f2896eefdc02</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

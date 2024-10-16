@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group">
+    <sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <click_in_mode>false</click_in_mode>
+        <context_config_id display_value="Defra Grants AI Search Configuration">59d507af5be4de10d46e7a14ea4f9066</context_config_id>
+        <limit>5</limit>
+        <order>600</order>
+        <section_header>Suggested</section_header>
+        <suggestion_type>Search-based Suggested Results Reader Group for Starter Workspace AI Search Configuration</suggestion_type>
+        <sys_class_name>sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-16 08:33:21</sys_created_on>
+        <sys_id>1dd507af19e4de1072f8284c169b5469</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Search-based Suggested Results Reader Group for Starter Workspace AI Search Configuration</sys_name>
+        <sys_package display_value="Defra Grants" source="x_snc_defra_grants">e0ad3a67fba4de106c06f2896eefdcb4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Defra Grants">e0ad3a67fba4de106c06f2896eefdcb4</sys_scope>
+        <sys_update_name>sys_suggestion_reader_group_1dd507af19e4de1072f8284c169b5469</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-16 08:33:21</sys_updated_on>
+    </sys_suggestion_reader_group>
+</record_update>

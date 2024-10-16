@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_snc_defra_grants_grant_schemes" version="2" view="workspace-defra-grants-0">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Grant Schemes - Workspace Defra Grants 0" name="x_snc_defra_grants_grant_schemes" related_list="NULL" sys_domain="global" view="11d507af6be4de10bdfe8544c3c34159">eef7a3e7fb2cde106c06f2896eefdcbd</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>x_snc_defra_grants_grant_questions.scheme</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-16 11:02:30</sys_created_on>
+            <sys_id>6ef7a3e7fb2cde106c06f2896eefdcbe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-16 11:02:30</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Grant Schemes - Workspace Defra Grants 0</calculated_name>
+            <filter/>
+            <name>x_snc_defra_grants_grant_schemes</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-16 11:02:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eef7a3e7fb2cde106c06f2896eefdcbd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Grant Schemes - Workspace Defra Grants 0</sys_name>
+            <sys_package display_value="Defra Grants" source="x_snc_defra_grants">e0ad3a67fba4de106c06f2896eefdcb4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Defra Grants">e0ad3a67fba4de106c06f2896eefdcb4</sys_scope>
+            <sys_update_name>sys_ui_related_x_snc_defra_grants_grant_schemes_workspace-defra-grants-0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-16 11:02:30</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace Defra Grants 0" name="workspace-defra-grants-0">11d507af6be4de10bdfe8544c3c34159</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

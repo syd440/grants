@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list_category">
+    <sys_ux_list_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <configuration display_value="Defra Grants_menu_config">26d587affbe4de106c06f2896eefdc6e</configuration>
+        <description/>
+        <order>100</order>
+        <sys_class_name>sys_ux_list_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-16 08:33:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a6d587affbe4de106c06f2896eefdc7d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Grant Schemes</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Defra Grants" source="x_snc_defra_grants">e0ad3a67fba4de106c06f2896eefdcb4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Defra Grants">e0ad3a67fba4de106c06f2896eefdcb4</sys_scope>
+        <sys_update_name>sys_ux_list_category_a6d587affbe4de106c06f2896eefdc7d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-16 08:33:24</sys_updated_on>
+        <title>Grant Schemes</title>
+    </sys_ux_list_category>
+</record_update>

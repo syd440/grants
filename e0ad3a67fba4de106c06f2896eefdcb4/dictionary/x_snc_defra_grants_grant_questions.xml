@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4d4ef6ebfba4de106c06f2896eefdc2b" label="Grant Questions" max_length="40" name="x_snc_defra_grants_grant_questions" text_index="true" type="collection">
+        <element label="Question Text" max_length="60" name="question_text" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Scheme" max_length="32" name="scheme" reference="x_snc_defra_grants_grant_schemes" type="reference"/>
+        <element choice="3" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Text" sequence="0" value="text"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="scheme"/>
+        </index>
+    </element>
+</database>

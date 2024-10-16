@@ -8,7 +8,7 @@
         <billable>false</billable>
         <can_cancel>false</can_cancel>
         <category/>
-        <checked_out>false</checked_out>
+        <checked_out/>
         <cost>0</cost>
         <create_universal_request>false</create_universal_request>
         <custom_cart/>
@@ -33,7 +33,7 @@
         <mobile_picture/>
         <mobile_picture_type>use_desktop_picture</mobile_picture_type>
         <model/>
-        <name>Richard E Grant</name>
+        <name>Stephen Grant</name>
         <no_attachment_v2>false</no_attachment_v2>
         <no_cart>false</no_cart>
         <no_cart_v2>false</no_cart_v2>
@@ -57,7 +57,7 @@
 * To access the variables, use `producer.var1` where var1 is the name of the variable
 * To access the Record Producer use `cat_item`
 */]]></post_insert_script>
-        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=aa48ab24fb7012106c06f2896eefdc66&amp;sysparm_preview=true", "summary");</preview>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=68efc1662b7cde10028af831ce91bf5b&amp;sysparm_preview=true", "summary");</preview>
         <price>0</price>
         <published_ref/>
         <recurring_frequency/>
@@ -83,22 +83,22 @@
 * Avoid `current.setAbortAction()` and generate a separate record
 * Use `producer.var1` to access variables
 */]]></script>
-        <short_description>Richard E Grant</short_description>
+        <short_description>Stephen Grant</short_description>
         <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
-        <state>published</state>
+        <state/>
         <sys_class_name>sc_cat_item_producer</sys_class_name>
         <sys_created_by>system</sys_created_by>
-        <sys_created_on>2024-09-19 13:37:47</sys_created_on>
-        <sys_id>aa48ab24fb7012106c06f2896eefdc66</sys_id>
-        <sys_mod_count>5</sys_mod_count>
-        <sys_name>Richard E Grant</sys_name>
+        <sys_created_on>2024-09-25 07:39:45</sys_created_on>
+        <sys_id>68efc1662b7cde10028af831ce91bf5b</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Stephen Grant</sys_name>
         <sys_package display_value="Defra Grants" source="x_snc_defra_grants">e0ad3a67fba4de106c06f2896eefdcb4</sys_package>
         <sys_policy/>
         <sys_scope display_value="Defra Grants">e0ad3a67fba4de106c06f2896eefdcb4</sys_scope>
-        <sys_update_name>sc_cat_item_producer_aa48ab24fb7012106c06f2896eefdc66</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-09-19 13:44:34</sys_updated_on>
+        <sys_update_name>sc_cat_item_producer_68efc1662b7cde10028af831ce91bf5b</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-09-25 07:39:45</sys_updated_on>
         <table_name>sn_customerservice_case</table_name>
         <taxonomy_topic/>
         <template/>
@@ -107,29 +107,29 @@
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
-        <version>5</version>
+        <version>3</version>
         <view/>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>
         <visible_standalone>true</visible_standalone>
         <workflow/>
     </sc_cat_item_producer>
-    <sys_translated_text action="delete_multiple" query="documentkey=aa48ab24fb7012106c06f2896eefdc66"/>
-    <fx_price action="delete_multiple" query="id=aa48ab24fb7012106c06f2896eefdc66"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=68efc1662b7cde10028af831ce91bf5b"/>
+    <fx_price action="delete_multiple" query="id=68efc1662b7cde10028af831ce91bf5b"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>price</field>
-        <id>aa48ab24fb7012106c06f2896eefdc66</id>
+        <id>68efc1662b7cde10028af831ce91bf5b</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>system</sys_created_by>
-        <sys_created_on>2024-09-19 13:37:47</sys_created_on>
-        <sys_id>a648ab24fb7012106c06f2896eefdc69</sys_id>
+        <sys_created_on>2024-09-25 07:39:45</sys_created_on>
+        <sys_id>e0efc1662b7cde10028af831ce91bfaf</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2024-09-19 13:37:47</sys_updated_on>
+        <sys_updated_on>2024-09-25 07:39:45</sys_updated_on>
         <table>sc_cat_item_producer</table>
         <type>calculated</type>
     </fx_price>
